@@ -4,6 +4,7 @@
     --secondary: #0B2154;
     --light: #F2F2F2;
     --dark: #111111;
+    --main-font: 'Tajawal', sans-serif;
 }
 
 .map-description h2 {
@@ -37,7 +38,12 @@
 
 body {
     overflow-x: hidden;
+    font-family: var(--main-font);
 }
+html {
+    font-family: var(--main-font) !important;
+}
+
 
 .nav-custom-color {
     color: rgba(0, 0, 0, .9);
