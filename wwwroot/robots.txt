@@ -1,0 +1,5 @@
+﻿User-agent: *
+Allow: /
+
+Sitemap: https://jordantowingservice.com/sitemap.xml
+Sitemap: https://jordantowingservice.com/geositemap.xml

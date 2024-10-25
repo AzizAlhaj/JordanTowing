@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:geo="http://www.google.com/geo/schemas/sitemap/1.0">
+	<url>
+		<loc>http://jordantowingservice.com/</loc>
+		<geo:geo>
+			<geo:lat>31.9454</geo:lat>
+			<geo:long>35.9284</geo:long>
+		</geo:geo>
+		<lastmod>2024-10-25</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.0</priority>
+	</url>
+	<url>
+		<loc>http://jordantowingservice.com/About</loc>
+		<geo:geo>
+			<geo:lat>31.9454</geo:lat>
+			<geo:long>35.9284</geo:long>
+		</geo:geo>
+		<lastmod>2024-10-25</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>http://jordantowingservice.com/Contact</loc>
+		<geo:geo>
+			<geo:lat>31.9454</geo:lat>
+			<geo:long>35.9284</geo:long>
+		</geo:geo>
+		<lastmod>2024-10-25</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.7</priority>
+	</url>
+</urlset>
